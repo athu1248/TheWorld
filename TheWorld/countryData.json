@@ -333,6 +333,7 @@
 
 
 
+
         {
             "name": "Denmark",
             "capital": "Copenhagen",
@@ -361,6 +362,90 @@
             "population": "10,847,910",
             "area": "48,320"
         },
+
+
+
+        {
+            "name": "Ecuador",
+            "capital": "Quito",
+            "flag": "./images/e/ecuador-flag.svg",
+            "population": "17,643,054",
+            "area": "276,841"
+        },
+        {
+            "name": "Egypt",
+            "capital": "Cairo",
+            "flag": "./images/e/egypt-flag.svg",
+            "population": "102,334,404",
+            "area": "995,450"
+        },
+        {
+            "name": "El Salvador",
+            "capital": "San Salvador",
+            "flag": "./images/e/el-salvador-flag.svg",
+            "population": "6,486,205",
+            "area": "20,721"
+        },
+        {
+            "name": "Equatorial Guinea",
+            "capital": "Malabo, Oyala",
+            "flag": "./images/e/equatorial-guinea-flag.svg",
+            "population": "1,402,985",
+            "area": "28,051"
+        },
+        {
+            "name": "Eritrea",
+            "capital": "Asmara",
+            "flag": "./images/e/eritrea-flag.svg",
+            "population": "3,546,421",
+            "area": "101,00"
+        },
+        {
+            "name": "Estonia",
+            "capital": "Tallinn",
+            "flag": "./images/e/estonia-flag.svg",
+            "population": "1,326,535",
+            "area": "Estonia"
+        },
+        {
+            "name": "Eswatini",
+            "capital": "Mbabane, Lobamaba",
+            "flag": "./images/e/eswatini-flag.svg",
+            "population": "1,160,164",
+            "area": "17,204"
+        },
+        {
+            "name": "Ethiopia",
+            "capital": "Addis Ababa",
+            "flag": "./images/e/ethiopia-flag.svg",
+            "population": "114,963,588",
+            "area": "1,096,570"
+        },
+
+
+
+        {
+            "name": "Fiji",
+            "capital": "Suva",
+            "flag": "./images/f/fiji-flag.svg",
+            "population": "896,445",
+            "area": "18,274"
+        },
+        {
+            "name": "Finland",
+            "capital": "Helsinki",
+            "flag": "./images/f/finland-flag.svg",
+            "population": "5,540,720",
+            "area": "303,815"
+        },
+        {
+            "name": "France",
+            "capital": "Paris",
+            "flag": "./images/f/france-flag.svg",
+            "population": "65,273,511",
+            "area": "549,970"
+        },
+
 
 
 
@@ -453,24 +538,432 @@
 
 
         {
-            "name":"India",
-            "capital": "New Delhi",
-            "flag": "./images/i/india-flag.svg",
-            "population": "",
-            "area": "2,973,193"
+            "name": "Haiti",
+            "capital": "Port-au-Prince",
+            "flag": "./images/h/haiti-flag.svg",
+            "population": "11,402,528",
+            "area": "27,560"
+        },
+        {
+            "name": "Honduras",
+            "capital": "Tegucigalpa",
+            "flag": "./images/h/honduras-flag.svg",
+            "population": "9,904,607",
+            "area": "11,890"
+        },
+        {
+            "name": "Hungary",
+            "capital": "Budapest",
+            "flag": "./images/h/hungary-flag.svg",
+            "population": "9,660,351",
+            "area": "89,608"
         },
 
 
 
 
         {
-            "name":"Japan",
-            "capital": "Tokyo",
-            "flag": "",
-            "population": "",
-            "area": "364,485"
+            "name": "Iceland",
+            "capital": "Reykjavik",
+            "flag": "./images/i/iceland-flag.svg",
+            "population": "341,243",
+            "area": "100,250"
+        },
+        {
+            "name":"India",
+            "capital": "New Delhi",
+            "flag": "./images/i/india-flag.svg",
+            "population": "1,380,004,385",
+            "area": "2,973,193"
+        },
+        {
+            "name": "Indonesia",
+            "capital": "Jakarata",
+            "flag": "./images/i/indonesia-flag.svg",
+            "population": "273,523,615",
+            "area": "1,811,569"
+        },
+        {
+            "name": "Iran",
+            "capital": "Tehran",
+            "flag": "./images/i/iran-flag.svg",
+            "population": "83,992,949",
+            "area": "1,531,595"
+        },
+        {
+            "name": "Iraq",
+            "capital": "Baghdad",
+            "flag": "./images/i/iraq-flag.svg",
+            "population": "40,222,493",
+            "area": "437,367"
+        },
+        {
+            "name": "Ireland",
+            "capital": "Dublin",
+            "flag": "./images/i/ireland-flag.svg",
+            "population": "4,937,786",
+            "area": "68,883"
+        },
+        {
+            "name": "Israel",
+            "capital": "Jerusalem",
+            "flag": "./images/i/israel-flag.svg",
+            "population": "8,655,535",
+            "area": "21,497"
+        },
+        {
+            "name": "Italy",
+            "capital": "Rome",
+            "flag": "./images/i/italy-flag.svg",
+            "population": "60,461,826",
+            "area": "294,140"
         },
 
+
+
+
+        {
+            "name": "Jamaica",
+            "capital": "Kingston",
+            "flag": "./images/j/jamaica-flag.svg",
+            "population": "2,961,167",
+            "area": "10,831"
+        },
+        {
+            "name":"Japan",
+            "capital": "Tokyo",
+            "flag": "./images/j/japan-flag.svg",
+            "population": "126,476,461",
+            "area": "364,485"
+        },
+        {
+            "name": "Jordan",
+            "capital": "Amman",
+            "flag": "./images/j/jordan-flag.svg",
+            "population": "10,203,134",
+            "area": "88,802"
+        },
+
+
+
+        {
+            "name": "Kazakhstan",
+            "capital": "Nur-Sultan",
+            "flag": "./images/k/kazakhstan-flag.svg",
+            "population": "18,776,707",
+            "area": "2,699,700"
+        },
+        {
+            "name": "Kenya",
+            "capital": "Nairobi",
+            "flag": "./images/k/kenya-flag.svg",
+            "population": "53,771,296",
+            "area": "569,140"
+        },
+        {
+            "name": "Kiribati",
+            "capital": "Tarawa",
+            "flag": "./images/k/kiribati-flag.svg",
+            "population": "119,449",
+            "area": "811"
+        },
+        {
+            "name": "Kosovo",
+            "capital": "Pristina",
+            "flag": "./images/k/kosovo-flag.svg",
+            "population": "1,810,366",
+            "area": "10,887"
+        },
+        {
+            "name": "Kuwait",
+            "capital": "Kuwait City",
+            "flag": "./images/k/kuwait-flag.svg",
+            "population": "4,270,571",
+            "area": "17,818"
+        },
+        {
+            "name": "Kyrgyzstan",
+            "capital": "Bishkek",
+            "flag": "./images/k/kyrgyzstan-flag.svg",
+            "population": "6,524,195",
+            "area": "191,801"
+        },
+
+
+
+        {
+            "name": "Laos",
+            "capital": "Vientiane",
+            "flag": "./images/l/laos-flag.svg",
+            "population": "7,275,560",
+            "area": "230,800"
+        },
+        {
+            "name": "Latvia",
+            "capital": "Riga",
+            "flag": "./images/l/latvia-flag.svg",
+            "population": "1,886,198",
+            "area": "62,249"
+        },
+        {
+            "name": "Lebanon",
+            "capital": "Beirut",
+            "flag": "./images/l/lebanon-flag.svg",
+            "population": "6,825,445",
+            "area": "10,230"
+        },
+        {
+            "name": "Lesotho",
+            "capital": "Maseru",
+            "flag": "./images/l/lesotho-flag.svg",
+            "population": "2,142,249",
+            "area": "30,355"
+        },
+        {
+            "name": "Liberia",
+            "capital": "Monrovia",
+            "flag": "./images/l/liberia-flag.svg",
+            "population": "5,057,681",
+            "area": "96,320"
+        },
+        {
+            "name": "Libya",
+            "capital": "Tripoli",
+            "flag": "./images/l/libya-flag.svg",
+            "population": "6,871,292",
+            "area": "1,759,540"
+        },
+        {
+            "name": "Liechtenstein",
+            "capital": "Vaduz",
+            "flag": "./images/l/liechtenstein-flag.svg",
+            "population": "38,128",
+            "area": "160"
+        },
+        {
+            "name": "Lithuania",
+            "capital": "Vilnius",
+            "flag": "./images/l/lithuania-flag.svg",
+            "population": "2,722,289",
+            "area": "62,680"
+        },
+        {
+            "name": "Luxembourg",
+            "capital": "Luxembourg (city)",
+            "flag": "./images/l/luxembourg-flag.svg",
+            "population": "625,978",
+            "area": "2,586"
+        },
+
+
+
+        {
+            "name": "Madagascar",
+            "capital": "Antananarivo",
+            "flag": "./images/m/madagascar-flag.svg",
+            "population": "27,691,018",
+            "area": "581,540"
+        },
+        {
+            "name": "Malawi",
+            "capital": "Lilongwe",
+            "flag": "./images/m/malawi-flag.svg",
+            "population": "19,129,952",
+            "area": "94,080"
+        },
+        {
+            "name": "Malaysia",
+            "capital": "Kuala Lampur",
+            "flag": "./images/m/malaysia-flag.svg",
+            "population": "32,365,999",
+            "area": "328,657"
+        },
+        {
+            "name": "Maldives",
+            "capital": "Male",
+            "flag": "./images/m/maldives-flag.svg",
+            "population": "540,544",
+            "area": "298"
+        },
+        {
+            "name": "Mali",
+            "capital": "Bamako",
+            "flag": "./images/m/mali-flag.svg",
+            "population": "20,250,833",
+            "area": "1,220,190"
+        },
+        {
+            "name": "Malta",
+            "capital": "Valletta",
+            "flag": "./images/m/malta-flag.svg",
+            "population": "441,543",
+            "area": "316"
+        },
+        {
+            "name": "Marshall Islands",
+            "capital": "Majuro",
+            "flag": "./images/m/marshall-islands-flag.svg",
+            "population": "59,190",
+            "area": "181"
+        },
+        {
+            "name": "Mauritania",
+            "capital": "Nouakchott",
+            "flag": "./images/m/mauritania-flag.svg",
+            "population": "4,649,658",
+            "area": "1,030,700"
+        },
+        {
+            "name": "Mauritius",
+            "capital": "Port Louis",
+            "flag": "./images/m/mauritius-flag.svg",
+            "population": "1,271,768",
+            "area": "2,030"
+        },
+        {
+            "name": "Mexico",
+            "capital": "Mexico City",
+            "flag": "./images/m/mexico-flag.svg",
+            "population": "128,932,753",
+            "area": "1,943,945"
+        },
+        {
+            "name": "Micronesia",
+            "capital": "Palikir",
+            "flag": "./images/m/micronesia-flag.svg",
+            "population": "115,023",
+            "area": "702"
+        },
+        {
+            "name": "Moldova",
+            "capital": "Chisinau",
+            "flag": "./images/m/moldova-flag.svg",
+            "population": "4,033,963",
+            "area": "32,891"
+        },
+        {
+            "name": "Monaco",
+            "capital": "Monaco",
+            "flag": "./images/m/monaco-flag.svg",
+            "population": "39,242",
+            "area": "2"
+        },
+        {
+            "name": "Mongolia",
+            "capital": "Ulaanbaatar",
+            "flag": "./images/m/mongolia-flag.svg",
+            "population": "3,278,290",
+            "area": "1,553,556"
+        },
+        {
+            "name": "Montenegro",
+            "capital": "Podgorica",
+            "flag": "./images/m/montenegro-flag.svg",
+            "population": "628,066",
+            "area": "13,452"
+        },
+        {
+            "name": "Morocco",
+            "capital": "Rabat",
+            "flag": "./images/m/morocco-flag.svg",
+            "population": "36,910,560",
+            "area": "446,300"
+        },
+        {
+            "name": "Mozambique",
+            "capital": "Maputo",
+            "flag": "./images/m/mozambique-flag.svg",
+            "population": "31,255,435",
+            "area": "786,380"
+        },
+        {
+            "name": "Myanmar",
+            "capital": "Naypyidaw",
+            "flag": "./images/m/myanmar-flag.svg",
+            "population": "54,409,800",
+            "area": "653,508"
+        },
+
+
+
+
+        {
+            "name": "Namibia",
+            "capital": "Windhoek",
+            "flag": "./images/n/namibia-flag.svg",
+            "population": "2,540,905",
+            "area": "823,290"
+        },
+        {
+            "name": "Nauru",
+            "capital": "Yaren District",
+            "flag": "./images/n/nauru-flag.svg",
+            "population": "10,824",
+            "area": "21.2"
+        },
+        {
+            "name": "Nepal",
+            "capital": "Kathmandu",
+            "flag": "./images/n/nepal-flag.svg",
+            "population": "29,136,808",
+            "area": "143,351"
+        },
+        {
+            "name": "Netherlands",
+            "capital": "Amsterdam",
+            "flag": "./images/n/netherlands-flag.svg",
+            "population": "17,134,872",
+            "area": "33,893"
+        },
+        {
+            "name": "New Zealand",
+            "capital": "Wellington",
+            "flag": "./images/n/new-zealand-flag.svg",
+            "population": "4,822,233",
+            "area": "264,537"
+        },
+        {
+            "name": "Nicaragua",
+            "capital": "Managua",
+            "flag": "./images/n/nicaragua-flag.svg",
+            "population": "6,624,554",
+            "area": "119,990"
+        },
+        {
+            "name": "Niger",
+            "capital": "Niamey",
+            "flag": "./images/n/niger-flag.svg",
+            "population": "24,206,644",
+            "area": "1,266,700"
+        },
+        {
+            "name": "Nigeria",
+            "capital": "Abuja",
+            "flag": "./images/n/nigeria-flag.svg",
+            "population": "206,139,589",
+            "area": "910,768"
+        },
+        {
+            "name": "North Korea",
+            "capital": "Pyongyang",
+            "flag": "./images/n/north-korea-flag.svg",
+            "population": "25,778,816",
+            "area": "120,408"
+        },
+        {
+            "name": "North Macedonia",
+            "capital": "Skopje",
+            "flag": "./images/n/north-macedonia-flag.svg",
+            "population": "2,083,374",
+            "area": "25,433"
+        },
+        {
+            "name": "Norway",
+            "capital": "Oslo",
+            "flag": "./images/n/norway-flag.svg",
+            "population": "5,421,241",
+            "area": "304,282"
+        },
 
 
 
@@ -480,6 +973,438 @@
             "flag": "./images/o/oman-flag.svg",
             "population": "5,106,626",
             "area": "309,500"
+        },
+
+
+
+        {
+            "name": "Pakistan",
+            "capital": "Islamabad",
+            "flag": "./images/p/pakistan-flag.svg",
+            "population": "220,892,340",
+            "area": "770,875"
+        },
+        {
+            "name": "Palau",
+            "capital": "Ngerulmud",
+            "flag": "./images/p/palau-flag.svg",
+            "population": "18,094",
+            "area": "459"
+        },
+        {
+            "name": "Palestine",
+            "capital": "Jerusalem(East)",
+            "flag": "./images/p/palestine-flag.svg",
+            "population": "",
+            "area": ""
+        },
+        {
+            "name": "Panama",
+            "capital": "Panama City",
+            "flag": "./images/p/panama-flag.svg",
+            "population": "4,314,767",
+            "area": "74,340"
+        },
+        {
+            "name": "Papua New Guinea",
+            "capital": "Port Moresby",
+            "flag": "./images/p/papua-new-guinea-flag.svg",
+            "population": "8,947,024",
+            "area": "452,860"
+        },
+        {
+            "name": "Paraguay",
+            "capital": "Asuncion",
+            "flag": "./images/p/paraguay-flag.svg",
+            "population": "7,132,538",
+            "area": "397,302"
+        },
+        {
+            "name": "Peru",
+            "capital": "Lima",
+            "flag": "./images/p/peru-flag.svg",
+            "population": "32,971,854",
+            "area": "1,279,996"
+        },
+        {
+            "name": "Philippines",
+            "capital": "Manila",
+            "flag": "./images/p/philippines-flag.svg",
+            "population": "109,581,078",
+            "area": "298,170"
+        },
+        {
+            "name": "Poland",
+            "capital": "Warsaw",
+            "flag": "./images/p/poland-flag.svg",
+            "population": "37,846,611",
+            "area": "304,255"
+        },
+        {
+            "name": "Portugal",
+            "capital": "Lisbon",
+            "flag": "./images/p/portugal-flag.svg",
+            "population": "10,196,709",
+            "area": "91,470"
+        },
+
+
+
+        {
+            "name": "Qatar",
+            "capital": "Doha",
+            "flag": "./images/q/qatar-flag.svg",
+            "population": "2,881,053",
+            "area": "11,586"
+        },
+
+
+
+        {
+            "name": "Romania",
+            "capital": "Bucharest",
+            "flag": "./images/r/romania-flag.svg",
+            "population": "19,237,691",
+            "area": "229,891"
+        },
+        {
+            "name": "Russia",
+            "capital": "Moscow",
+            "flag": "./images/r/russia-flag.svg",
+            "population": "145,934,462",
+            "area": "16,377,742"
+        },
+        {
+            "name": "Rwanda",
+            "capital": "Kigali",
+            "flag": "./images/r/rwanda-flag.svg",
+            "population": "12,952,218",
+            "area": "24,668"
+        },
+
+
+
+        {
+            "name": "Saint Kitts and Nevis",
+            "capital": "Basseterre",
+            "flag": "./images/s/saint-kitts-and-nevis-flag.svg",
+            "population": "53,199",
+            "area": "261"
+        },
+        {
+            "name": "Saint Lucia",
+            "capital": "Castries",
+            "flag": "./images/s/saint-lucia-flag.svg",
+            "population": "183,627",
+            "area": "606"
+        },
+        {
+            "name": "Saint Vincent and the Grenadines",
+            "capital": "Kingstown",
+            "flag": "./images/s/saint-vincent-and-the-grenadines-flag.svg",
+            "population": "110,940",
+            "area": "389"
+        },
+        {
+            "name": "Samoa",
+            "capital": "Apia",
+            "flag": "./images/s/samoa-flag.svg",
+            "population": "198,414",
+            "area": "2,821"
+        },
+        {
+            "name": "San Marino",
+            "capital": "San Marino",
+            "flag": "./images/s/san-marino-flag.svg",
+            "population": "33,931",
+            "area": "61.2"
+        },
+        {
+            "name": "Sao Tome and Principe",
+            "capital": "Sao Tome",
+            "flag": "./images/s/sao-tome-and-principe-flag.svg",
+            "population": "219,159",
+            "area": "964"
+        },
+        {
+            "name": "Saudi Arabia",
+            "capital": "Riyadh",
+            "flag": "./images/s/saudi-arabia-flag.svg",
+            "population": "34,813,871",
+            "area": "2,149,690"
+        },
+        {
+            "name": "Senegal",
+            "capital": "Dakar",
+            "flag": "./images/s/senegal-flag.svg",
+            "population": "16,743,927",
+            "area": "192,530"
+        },
+        {
+            "name": "Serbia",
+            "capital": "Belgrade",
+            "flag": "./images/s/serbia-flag.svg",
+            "population": "8,737,371",
+            "area": "77,474"
+        },
+        {
+            "name": "Seychelles",
+            "capital": "Victoria",
+            "flag": "./images/s/seychelles-flag.svg",
+            "population": "98,347",
+            "area": "455"
+        },
+        {
+            "name": "Sierra Leone",
+            "capital": "Freetown",
+            "flag": "./images/s/serria-leone-flag.svg",
+            "population": "7,976,983",
+            "area": "71,620"
+        },
+        {
+            "name": "Singapore",
+            "capital": "Singapore",
+            "flag": "./images/s/singapore-flag.svg",
+            "population": "5,850,342",
+            "area": "709,2"
+        },
+        {
+            "name": "Slovakia",
+            "capital": "Bratislava",
+            "flag": "./images/s/slovakia-flag.svg",
+            "population": "5,459,642",
+            "area": "48,105"
+        },
+        {
+            "name": "Slovenia",
+            "capital": "Ljubljana",
+            "flag": "./images/s/slovenia-flag.svg",
+            "population": "2,078,938",
+            "area": "20,151"
+        },
+        {
+            "name": "Solomon Islands",
+            "capital": "Honiara",
+            "flag": "./images/s/solomon-islands-flag.svg",
+            "population": "686,884",
+            "area": "27,986"
+        },
+        {
+            "name": "Somalia",
+            "capital": "Mogadishu",
+            "flag": "./images/s/somalia-flag.svg",
+            "population": "15,839,222",
+            "area": "627,337"
+        },
+        {
+            "name": "South Africa",
+            "capital": "Pretoria, Cape Town, Bloemfontein",
+            "flag": "./images/s/south-africa-flag.svg",
+            "population": "59,308,690",
+            "area": "1,214,470"
+        },
+        {
+            "name": "South Korea",
+            "capital": "Seoul",
+            "flag": "./images/s/south-korea-flag.svg",
+            "population": "51,269,185",
+            "area": "96,920"
+        },
+        {
+            "name": "South Sudan",
+            "capital": "Juba",
+            "flag": "./images/s/south-sudan-flag.svg",
+            "population": "11,193,725",
+            "area": "644,329"
+        },
+        {
+            "name": "Spain",
+            "capital": "Madrid",
+            "flag": "./images/s/spain-flag.svg",
+            "population": "46,754,778",
+            "area": "498,980"
+        },
+        {
+            "name": "Sri Lanka",
+            "capital": "Sri Jayawardenepura Kotte",
+            "flag": "./images/s/sri-lanka-flag.svg",
+            "population": "21,413,249",
+            "area": "64,630"
+        },
+        {
+            "name": "Sudan",
+            "capital": "Khartoum",
+            "flag": "./images/s/sudan-flag.svg",
+            "population": "43,849,260",
+            "area": "1,731,671"
+        },
+        {
+            "name": "Suriname",
+            "capital": "Paramaribo",
+            "flag": "./images/s/suriname-flag.svg",
+            "population": "586,632",
+            "area": "156,000"
+        },
+        {
+            "name": "Sweden",
+            "capital": "Stockholm",
+            "flag": "./images/s/sweden-flag.svg",
+            "population": "10,099,265",
+            "area": "410,335"
+        },
+        {
+            "name": "Switzerland",
+            "capital": "Bern",
+            "flag": "./images/s/switzerland-flag.svg",
+            "population": "8,654,622",
+            "area": "39,997"
+        },
+        {
+            "name": "Syria",
+            "capital": "Damascus",
+            "flag": "./images/s/syria-flag.svg",
+            "population": "17,500,658",
+            "area": "185,887"
+        },
+
+
+
+
+        {
+            "name": "Taiwan",
+            "capital": "Taipei",
+            "flag": "./images/t/taiwan-flag.svg",
+            "population": "23,816,775",
+            "area": "32,260"
+        },
+        {
+            "name": "Tajikistan",
+            "capital": "Dushanbe",
+            "flag": "./images/t/tajikistan-flag.svg",
+            "population": "9,537,645",
+            "area": "141,510"
+        },
+        {
+            "name": "Tanzania",
+            "capital": "Dodoma",
+            "flag": "./images/t/tanzania-flag.svg",
+            "population": "59,734,218",
+            "area": "885,800"
+        },
+        {
+            "name": "Thailand",
+            "capital": "Bangkok",
+            "flag": "./images/t/thailand-flag.svg",
+            "population": "69,799,978",
+            "area": "510,890"
+        },
+        {
+            "name": "Timor-Leste",
+            "capital": "Dili",
+            "flag": "./images/t/east-timor-flag.svg",
+            "population": "1,318,445",
+            "area": "14,874"
+        },
+        {
+            "name": "Togo",
+            "capital": "Lome",
+            "flag": "./images/t/togo-flag.svg",
+            "population": "8,278,724",
+            "area": "54,385"
+        },
+        {
+            "name": "Tonga",
+            "capital": "Nuku'alofa",
+            "flag": "./images/t/tonga-flag.svg",
+            "population": "105,695",
+            "area": "717"
+        },
+        {
+            "name": "Trinidad and Tobago",
+            "capital": "Port of Spain",
+            "flag": "./images/t/trinidad-and-tobago-flag.svg",
+            "population": "1,399,488",
+            "area": "5,128"
+        },
+        {
+            "name": "Tunisia",
+            "capital": "Tunis",
+            "flag": "./images/t/tunisia-flag.svg",
+            "population": "11,818,619",
+            "area": "155,360"
+        },
+        {
+            "name": "Turkey",
+            "capital": "Ankara",
+            "flag": "./images/t/turkey-flag.svg",
+            "population": "84,339,067",
+            "area": "769,632"
+        },
+        {
+            "name": "Turkmenistan",
+            "capital": "Ashgabat",
+            "flag": "./images/t/turkmenistan-flag.svg",
+            "population": "6,031,200",
+            "area": "469,930"
+        },
+        {
+            "name": "Tuvalu",
+            "capital": "Funafuti",
+            "flag": "./images/t/tuvalu-flag.svg",
+            "population": "11,792",
+            "area": "25.6"
+        },
+
+
+
+        {
+            "name": "Uganda",
+            "capital": "Kampala",
+            "flag": "./images/u/uganda-flag.svg",
+            "population": "45,741,007",
+            "area": "197,100"
+        },
+        {
+            "name": "Ukraine",
+            "capital": "Kyiv",
+            "flag": "./images/u/ukraine-flag.svg",
+            "population": "43,733,762",
+            "area": "579,330"
+        },
+        {
+            "name": "United Arab Emirates",
+            "capital": "Abu Dhabi",
+            "flag": "./images/u/united-arab-emirates-flag.svg",
+            "population": "9,890,402",
+            "area": "83,600"
+        },
+        {
+            "name": "United Kingdom",
+            "capital": "London",
+            "flag": "./images/u/united-kingdom-flag.svg",
+            "population": "67,886,011",
+            "area": "241,930"
+        },
+        {
+            "name": "United States of America",
+            "capital": "Washington, D.C.",
+            "flag": "./images/u/united-states-of-america-flag.svg",
+            "population": "331,002,651",
+            "area": "9,147,593"
+        },
+        {
+            "name": "Uruguay",
+            "capital": "Montevideo",
+            "flag": "./images/u/uruguay-flag.svg",
+            "population": "3,473,730",
+            "area": "175,015"
+        },
+        {
+            "name": "Uzbekistan",
+            "capital": "Tashkent",
+            "flag": "./images/u/uzbekistan-flag.svg",
+            "population": "33,469,203",
+            "area": "425,400"
         },
 
 
