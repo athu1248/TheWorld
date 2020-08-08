@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Countryflags.com" width = "100%" height = "100%"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-5.5 596.5 300 200"
+	 enable-background="new -5.5 596.5 300 200" xml:space="preserve">
+<switch>
+	<g>
+		<g>
+			<path id="_x35_" fill="#1EB53A" d="M-5.5,596.5h300l-300,200"/>
+			<path id="_x34_" fill="#00A3DD" d="M-5.5,796.5h300v-200"/>
+			<g id="Group_1">
+				<defs>
+					<rect id="_x31_" x="-5.5" y="596.5" width="300" height="200"/>
+				</defs>
+				<clipPath id="_x31__1_">
+					<use xlink:href="#_x31_"  overflow="visible"/>
+				</clipPath>
+				
+					<line id="_x33_" clip-path="url(#_x31__1_)" fill="none" stroke="#FCD116" stroke-width="70" x1="-5.5" y1="796.5" x2="294.5" y2="596.5"/>
+				
+					<line id="_x32_" clip-path="url(#_x31__1_)" fill="none" stroke="#000000" stroke-width="50" x1="-5.5" y1="796.5" x2="294.5" y2="596.5"/>
+			</g>
+		</g>
+	</g>
+</switch>
+</svg>
