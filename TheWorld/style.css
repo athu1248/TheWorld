@@ -8,43 +8,46 @@ body{
 	width: 100%;
 }
 
-#svg1{
+#mapSVG{
 	background-color : blue;
 	stroke-linejoin: bevel; 
 	stroke: #000; 
 	fill: none;
 	position: relative;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	right: 0;
+	top: 0%;
+	left: 0%;
+	margin: 0px;
+	padding: 0px;
+	cursor: default;
+
 }
 
-#svg1 path{
+#mapSVG path{
 	fill:#f2c977;
 	fill-rule:evenodd;
 }
-#svg1 path:hover{
+#mapSVG path:hover{
 	fill : #fce6b6;
 	transition: fill 0s;
 	
 }
 
-#overlay{
-	position: fized;
+.overlay{
+	position: fixed;
 	opacity: 0;
 	transition: 200ms ease-in-out;
 	top: 0;
-	bottom: 0;
-	right: 0;
 	left: 0;
-	background-color: rgba(0, 0, 0, 0.527);
-	pointer-events: none;
-	visibility: hidden;
+	width: 100%;
+	height: 100%;
+	background-color: rgb(0, 0, 0);
+	visibility: none;
+	z-index: auto;
 }
-#overlay.active{
-	pointer-events: all;
-	opacity: 1;
+.overlay.active{
+	visibility: visible;
+	opacity: 0.7;
+	z-index: 5;
 }
 
 .modal{
@@ -56,7 +59,7 @@ body{
 	height: 392.33px;
 	max-width: 55%;
 	max-height: 70%;
-	transition: 200ms ease-in-out;
+	/*transition: 10s ease-in-out;*/
 	border: 1px solid black;
 	display: none;
 	z-index: 10;
@@ -85,6 +88,9 @@ body{
 	width: 100%;
 	height: 100%;
 	vertical-align: middle;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
 }
 
 .modal .modal-title{
@@ -93,12 +99,18 @@ body{
 	font-weight: bold;
 	text-align: center;
 	align-self: center;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
 }
 
 .modal .modal-close-button{
 	grid-area: c;
 	text-align: right;
 	vertical-align: top;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
 }
 .modal #closeBtn{
 	cursor: pointer;
@@ -107,6 +119,9 @@ body{
 	background: none;
 	font-size: 1.25rem;
 	font-weight: bolder;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
 }
 
 .modal .modalCapitalID{
@@ -115,32 +130,50 @@ body{
 	text-align: center;
 	border-top: 3px solid black;
 	padding-top: 10px;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
 }
 .modal .modalCapital{
 	grid-area: e;
 	text-align: center;
 	border-top: 3px solid black;
 	padding-top: 10px;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
 }
 
 .modal .modalPopuID{
 	grid-area: f;
 	font-weight: bold;
 	text-align: center;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
 }
 .modal .modalPopu{
 	grid-area: g;
 	text-align: center;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
 }
 
 .modal .modalAreaID{
 	grid-area: h;
 	font-weight: bold;
 	text-align: center;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
 }
 .modal .modalArea{
 	grid-area: i;
 	text-align: center;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
 }
 
 .dialog {
@@ -149,6 +182,9 @@ body{
 	width: 100px;
 	height: 50px;
 	transition: 0s;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
 	
 }
 .dialog.active {
@@ -168,4 +204,43 @@ body{
 	margin: 0;
 	text-align: center;
 	vertical-align: middle;
+}
+
+.zoomButtons {
+	position: absolute;
+	top: 80%;
+	left: 5%;
+}
+.zoomButtons #zoomInBtn {
+	background-color: #000;
+	border-radius: 8px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+	display: block;
+	opacity: 0.5;
+	color: azure;
+	text-align: center;
+	width: 3rem;
+	height: 3rem;
+
+	cursor: pointer;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+}
+.zoomButtons #zoomOutBtn {
+	background-color: #000;
+	border-radius: 8px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	opacity: 0.5;
+	color: azure;
+	text-align: center;
+	width: 3rem;
+	height: 3rem;
+
+	cursor: pointer;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
 }
