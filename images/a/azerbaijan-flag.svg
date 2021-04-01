@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="Countryflags.com" width = "200px" height = "125px"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="294.5 696.5 300 150"
+	 enable-background="new 294.5 696.5 300 150" xml:space="preserve">
+<switch>
+	<g >
+		<g>
+			<rect id="_x36_" x="294.5" y="696.5" fill="#0098C3" width="300" height="150"/>
+			<rect id="_x35_" x="294.5" y="746.5" fill="#E00034" width="300" height="50"/>
+			<rect id="_x34_" x="294.5" y="796.5" fill="#00AE65" width="300" height="50"/>
+			<circle id="_x33_" fill="#FFFFFF" cx="439.75" cy="771.5" r="22.5"/>
+			<circle id="_x32_" fill="#E00034" cx="444.5" cy="771.5" r="18.75"/>
+			<path id="_x31_" fill="#FFFFFF" d="M473.595,780.333l-6.449-3.06L464.759,784l-2.396-6.724l-6.445,3.069l3.06-6.449l-6.727-2.387
+				l6.724-2.396l-3.069-6.445l6.449,3.06l2.387-6.728l2.396,6.724l6.445-3.069l-3.06,6.449l6.728,2.387l-6.724,2.396
+				L473.595,780.333z"/>
+		</g>
+	</g>
+</switch>
+</svg>
