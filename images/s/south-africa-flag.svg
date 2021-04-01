@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Countryflags.com" width = "100%" height = "100%"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="144 0 300 200"
+	 enable-background="new 144 0 300 200" xml:space="preserve">
+<switch>
+	<g>
+		<g id="Group_1">
+			<defs>
+				<rect id="_x31_" x="144" width="300" height="200"/>
+			</defs>
+			<clipPath id="_x31__2_">
+				<use xlink:href="#_x31_"  overflow="visible"/>
+			</clipPath>
+			<g id="Group_2" clip-path="url(#_x31__2_)">
+				<path id="_x36_" fill="#002395" d="M144,0v200h300V0H144z"/>
+				<path id="_x35_" fill="#DE3831" d="M144,0v100h300V0H144z"/>
+				<path id="_x34_" stroke="#FFFFFF" stroke-width="66.6667" d="M144,0l150,100L144,200 M290,100h154"/>
+				<g id="Group_3">
+					<defs>
+						<polyline id="_x32_" points="144,0 294,100 144,200 						"/>
+					</defs>
+					<clipPath id="_x32__1_">
+						<use xlink:href="#_x32_"  overflow="visible"/>
+					</clipPath>
+					<path id="_x33_" clip-path="url(#_x32__1_)" stroke="#FFB612" stroke-width="60" d="M144,0l150,100L144,200"/>
+				</g>
+				<path id="_x31__1_" fill="none" stroke="#007A4D" stroke-width="40" d="M144,0l150,100L144,200 M294,100h150"/>
+			</g>
+		</g>
+	</g>
+</switch>
+</svg>
