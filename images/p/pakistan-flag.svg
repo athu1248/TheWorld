@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Countryflags.com" width = "100%" height = "100%"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="144.5 696.5 300 200"
+	 enable-background="new 144.5 696.5 300 200" xml:space="preserve">
+<switch>
+	<g>
+		<g>
+			<rect id="_x35_" x="144.5" y="696.5" fill="#FFFFFF" width="300" height="200"/>
+			<rect id="_x34_" x="219.5" y="696.5" fill="#01411C" width="225" height="200"/>
+			<circle id="_x33_" fill="#FFFFFF" cx="332" cy="796.5" r="60"/>
+			<circle id="_x32_" fill="#01411C" cx="347.337" cy="782.868" r="55"/>
+			<polygon id="_x31_" fill="#FFFFFF" points="353.879,751.603 379.153,780.036 341.993,771.889 376.845,756.638 357.613,789.462 
+							"/>
+		</g>
+	</g>
+</switch>
+</svg>

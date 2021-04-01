@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Countryflags.com" width = "100%" height = "100%"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="144.5 696.5 300 200"
+	 enable-background="new 144.5 696.5 300 200" xml:space="preserve">
+<switch>
+	<g>
+		<g>
+			<path id="_x37_" fill="#003580" d="M444.5,696.5h-300v200L444.5,696.5z"/>
+			<path id="_x36_" fill="#009543" d="M144.5,896.5h300v-200L144.5,896.5z"/>
+			<g id="Group_1">
+				<defs>
+					<rect id="_x33_" x="144.5" y="696.5" width="300" height="200"/>
+				</defs>
+				<clipPath id="_x33__1_">
+					<use xlink:href="#_x33_"  overflow="visible"/>
+				</clipPath>
+				<path id="_x35_" clip-path="url(#_x33__1_)" stroke="#FFFFFF" stroke-width="60" d="M144.5,896.5l300-200"/>
+				<path id="_x34_" clip-path="url(#_x33__1_)" stroke="#D21034" stroke-width="40" d="M144.5,896.5l300-200"/>
+			</g>
+			<path id="_x32_" fill="#FFCE00" d="M204.5,718.166l5.176,14.015l11.49-9.549l-2.525,14.726l14.726-2.525l-9.549,11.49
+				l14.015,5.176l-14.015,5.176l9.549,11.49l-14.726-2.524l2.525,14.725l-11.49-9.549l-5.176,14.015l-5.176-14.015l-11.49,9.549
+				l2.524-14.725l-14.725,2.524l9.549-11.49l-14.015-5.176l14.015-5.176l-9.549-11.49l14.725,2.525l-2.524-14.726l11.49,9.549
+				L204.5,718.166z"/>
+			<circle id="_x31_" fill="#FFCE00" stroke="#003580" stroke-width="2" cx="204.5" cy="751.5" r="18.333"/>
+		</g>
+	</g>
+</switch>
+</svg>

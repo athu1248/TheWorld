@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Countryflags.com" width = "100%" height = "100%"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 150"
+	 enable-background="new 0 0 300 150" xml:space="preserve">
+<switch>
+	<g>
+		<g>
+			<rect id="_x34_" y="0" fill="#D82727" width="300" height="150"/>
+			<polygon id="_x33_" fill="#FFC71F" points="0,0 150.226,75 0,150 			"/>
+			<polygon id="_x32_" points="0,0 74.933,75 0,150 			"/>
+			<path id="_x31_" fill="#FFFFFF" d="M33.499,65.953l15.823-6.594l-8.698,14.932l10.969,12.943l-16.854-4.09L25.703,98L24.31,80.57
+				L7.433,76.78l15.948-6.606l-1.351-17.276L33.499,65.953z"/>
+		</g>
+	</g>
+</switch>
+</svg>
